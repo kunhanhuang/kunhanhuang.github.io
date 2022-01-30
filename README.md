@@ -6,3 +6,6 @@
 
 ## Vulkan and DirectX 12
 [HLSL in Vulkan, GDC 2018](https://www.youtube.com/watch?v=42lqJ-iXc7g&t=1278s)
+
+## Vulkan
+[Vulkanised! Syncronization. Keeping your device fed - May 2017](https://www.youtube.com/watch?v=oF7vOTTaAh4)
