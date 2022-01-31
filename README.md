@@ -9,4 +9,4 @@
 
 ## Vulkan
 [Vulkanised! Syncronization. Keeping your device fed - May 2017](https://www.youtube.com/watch?v=oF7vOTTaAh4)
-[Porting to vulkan)(https://www.youtube.com/watch?v=nBfrPerknBk)
+[Porting to vulkan](https://www.youtube.com/watch?v=nBfrPerknBk)
