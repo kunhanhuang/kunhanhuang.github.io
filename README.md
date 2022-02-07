@@ -11,6 +11,8 @@
 
 [Memory Management in Vulkan and DX12 (time:24:54), GDC 2018](https://www.gdcvault.com/play/1025029/Advanced-Graphics-Techniques-Tutorial-New)
 
+[Design Patterns for Low-Level Real-Time Rendering, Cppcon 2017](https://www.youtube.com/watch?v=mdPeXJ0eiGc)
+
 ## Vulkan
 [Vulkanised! Syncronization. Keeping your device fed - May 2017](https://www.youtube.com/watch?v=oF7vOTTaAh4)
 
